@@ -18,11 +18,10 @@
     "@types/react-dom": "^18.0.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sass": "^1.58.0",
     "styled-components": "^5.3.6"
   },
   "peerDependencies": {
-    "@tensorflow/tfjs-backend-webgl": "^3.21.0",
+    "@tensorflow/tfjs-backend-cpu": "^3.21.0",
     "@tensorflow/tfjs-converter": "^3.21.0",
     "@tensorflow/tfjs-core": "^3.21.0"
   },
